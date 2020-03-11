@@ -1,0 +1,39 @@
+ul{
+    display: inline;
+    overflow: hidden;
+    list-style-type: none;
+}
+
+li{
+    float: left;
+    margin-right: 50px;
+    display: block;
+}
+
+.navbar{
+    border-top: 5px solid black;
+    border-bottom: 1px solid black;
+}
+
+.container{
+    border-style: double;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0 300px;
+    border: 0 500px;
+}
+
+.a img{
+    width: 100px;
+    height: 100px;
+}
+.center{
+    margin: 0 auto;
+}
+
+.color{
+    color: red;
+}
+
